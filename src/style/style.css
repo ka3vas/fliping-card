@@ -8,7 +8,7 @@
   --fw-normal: 400;
   --fw-bold: 700;
 
-  --clr: #b7c9e5;
+  --clr: #bdb76b;
 }
 
 *,
@@ -57,7 +57,7 @@ body {
 
 .card__front {
   background-color: var(--clr);
-  background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/308367/fair.jpg);
+  background-image: url(../assets/image.jpg);
   background-size: cover;
   background-blend-mode: overlay;
   color: #333;
