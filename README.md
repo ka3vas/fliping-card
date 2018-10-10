@@ -1,3 +1,3 @@
 # fliping-card
 
-<p>Assets folder should be added with and image</p>
+<p>Assets folder should be added with and image.jpg</p>
